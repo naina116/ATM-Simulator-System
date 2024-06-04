@@ -31,7 +31,7 @@ public class SignupTwo extends JFrame implements ActionListener{//JFrame class i
         additionalDetails.setBounds(290, 80, 400, 30);
         add(additionalDetails);
         
-        JLabel name = new JLabel("Religion+ : "); //to write text on frame
+        JLabel name = new JLabel("Religion : "); //to write text on frame
         name.setFont(new Font("Raleway",Font.BOLD,20));
         name.setBounds(100, 140, 100, 30);
         add(name);
